@@ -6,4 +6,5 @@ Open GL Asteroid Simulation with particles system
 ***Make sure you installed the opengl library such as glu and glut to ensure the code is excutable.***
 
 **The result of the code will be something like this
-![capture](https://user-images.githubusercontent.com/45889437/72801355-4a698380-3c84-11ea-8746-25fa5a8d8b35.JPG)
+![Capture](https://user-images.githubusercontent.com/45889437/74581182-8a075f00-4fe7-11ea-8795-d6d067eb0ae3.JPG)
+![Capture2](https://user-images.githubusercontent.com/45889437/74581186-9e4b5c00-4fe7-11ea-88d5-e2b25460cbb8.JPG)
